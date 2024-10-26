@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: subhu9849/medical
+        image: suneel09/dproject:mydockerimage
         ports:
         - containerPort: 3000   # Use port 3000
 
